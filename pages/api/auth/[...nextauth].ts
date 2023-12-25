@@ -18,7 +18,7 @@ export default NextAuth({
         httpOnly: true,
         sameSite: 'lax',
         path: '/',
-        domain: '.solutions-subdomain-auth.vercel.sh',
+        domain: '.thana-ptz-login.vercel.sh',
         secure: useSecureCookies,
       },
     },

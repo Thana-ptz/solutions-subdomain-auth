@@ -15,7 +15,7 @@ export default function Home() {
   return (
     <Page>
       <section className="flex flex-col gap-6">
-        <Text variant="h1">Securing routes using next-auth</Text>
+        <Text variant="h1">THANA BUSINESS</Text>
         <Text>
           Wrapping our <Code>pages/_app</Code> using{' '}
           <Code>SessionProvider</Code> from <Code>next-auth</Code> will secure
